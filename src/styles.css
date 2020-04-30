@@ -1,0 +1,8 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+}
+.coll-panel-btn:focus {
+    outline: 0;
+    box-shadow: none;
+}
